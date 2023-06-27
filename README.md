@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-v3.11.x-FFD43B) ![Hashicorp-Vault](https://img.shields.io/badge/Hashicorp-VaultSecrets-2D2727) ![AWS-S3](https://img.shields.io/badge/AWS-SecretsManager-FF9900)
+
 # Python-Scripts-To-Fetch-Secrets-From-Vault-or-Secrets-Manager
 
 ## Description
