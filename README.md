@@ -1,4 +1,4 @@
-# Python-Script-To-Fetch-Secrets-From-Vault-or-Secrets-Manager
+# Python-Scripts-To-Fetch-Secrets-From-Vault-or-Secrets-Manager
 
 ## Description
 
